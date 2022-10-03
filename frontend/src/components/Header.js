@@ -27,18 +27,18 @@ const Header = () => {
               <NavDropdown title='Functions' id='basic-nav-dropdown'>
                 <NavDropdown.Item href='#action/3.2'>
                   <Nav.Link as={Link} to='/function1'>
-                    Function 1
+                    Func
                   </Nav.Link>
                 </NavDropdown.Item>
                 <NavDropdown.Item href='#action/3.3'>
                   <Nav.Link as={Link} to='/function2'>
-                    Function 2
+                    Func 2
                   </Nav.Link>
                 </NavDropdown.Item>
                 {/* <NavDropdown.Divider /> */}
                 <NavDropdown.Item href='#action/3.4'>
                   <Nav.Link as={Link} to='/function3'>
-                    Function 3
+                    Func 3
                   </Nav.Link>
                 </NavDropdown.Item>
               </NavDropdown>
