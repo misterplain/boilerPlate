@@ -6,6 +6,7 @@
 2. [ ] User auth and protected routes with JWT
 3. [ ] Remove functions from header
 4. [ ] Header dropdown on small screens on right hand side
+5. [ ] Fix auth routes, create register route similar to bcnMin-v4
 
 ###### Login / Register
 
